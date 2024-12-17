@@ -12,12 +12,12 @@ export class AppComponent implements OnInit {
 
   // Carrusel de imágenes
   images: string[] = [
-    'https://i.pinimg.com/736x/6c/fe/ef/6cfeef1f897a2ddcd186f01fab4ab879.jpg',
-    'https://i.pinimg.com/736x/f3/d6/cf/f3d6cf6c893260907dcfaa41032bf6df.jpg',
-    'https://i.pinimg.com/736x/c7/16/a4/c716a492b7da6497ef7849d258e950a0.jpg',
-    'https://i.pinimg.com/736x/0f/4d/30/0f4d30c36aaa519d7ac1f938aae32e9a.jpg',
-    'https://i.pinimg.com/736x/32/a8/1c/32a81ced68a9834a0124508aad1b5389.jpg',
-    'https://i.pinimg.com/736x/e0/50/35/e05035e9b520358d64164c91871f177d.jpg'
+    'https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2014/12/ps20_evolucion.png?fit=640%2C360&ssl=1',
+    'https://www.muycomputer.com/wp-content/uploads/2013/08/evoluci%C3%B3n-gr%C3%A1fica-ps1-ps4-portada-img312-630x450.jpg',
+    'https://media.istockphoto.com/id/515736178/es/foto/playstation-2-extraplano-consola-de-juegos.jpg?s=612x612&w=0&k=20&c=eujKzYDdos5mo7EjJd8llgLFlhhM3iFlNRvGbw2k4Dg=',
+    'https://guide-images.cdn.ifixit.com/igi/YHimxLG2QHJbKf1S.large',
+    'https://www.repuestosfuentes.es/99038-large_default/consola-sony-playstation-ps4-pro-1tb-muy-buen-estado.jpg',
+    'https://mobilestore.ec/wp-content/uploads/2023/12/PlayStation-5-Slim-Mobile-Store-Ecuador1.jpg'
   ];
 
   // Opciones de carrusel para adaptarse a diferentes tamaños de pantalla
